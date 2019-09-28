@@ -1,3 +1,4 @@
+
 # Long time no see atau It's been a while.
 
 I am a **backend** engineer. I am currently **looking** for opportunities for a backend engineer role.
@@ -11,7 +12,7 @@ Let recruiters know you’re open: **On**
 - Create Marketplace for Programbroiler (Backend).
 - Create Ownfarm docs web (Backend)the project.
 - Develop a web-based ERP system.
-- 
+
 ##### Internship Junior Web Developer
 	Jan 2017 – Oct 2017
 - Actively looking for difficult projects to develop program and service skills.
@@ -41,6 +42,7 @@ Let recruiters know you’re open: **On**
 ## Education
 ##### Vocational High School 4 Malang
 > Informatics engineering, Information Technology
+
 ##### State Polytechnic Of Malang
 > Vocational, Computer Software Engineering
 
