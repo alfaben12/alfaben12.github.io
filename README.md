@@ -1,4 +1,3 @@
-
 # Long time no see atau It's been a while.
 
 I am a **backend** engineer. I am currently **looking** for opportunities for a backend engineer role.
@@ -6,7 +5,7 @@ I am a **backend** engineer. I am currently **looking** for opportunities for a 
 Let recruiters know you’re open: **On**
 
 ## Experience
-#### PT Arca International
+### PT Arca International
 ##### Internship Junior Backend Developer
 Nov 2016 – Dec 2016
 - Create Marketplace for Programbroiler (Backend).
@@ -24,13 +23,13 @@ Jan 2017 – Oct 2017
 - Interact with business customers to understand their needs, present website demos, hear their questions, and resolve technical problems that arise during the project.
 - Develop a web-based ERP system.
 
-#### Freelance Web Development
+### Freelance Web Development
 ##### Self Employee
 Nov 2017 – Present
 - Work on the application on demand sell. 
 - Applications that have been developed.
 
-#### FollowersIndo
+### FollowersIndo
 ##### Backend Engineer
 Sep 2018 – Present
 - Develop and maintain web-based applications.
