@@ -1,3 +1,4 @@
+
 # Long time no see atau It's been a while.
 
 I am a **backend** engineer. I am currently **looking** for opportunities for a backend engineer role.
@@ -45,7 +46,28 @@ Sep 2018 – Present
 ##### State Polytechnic Of Malang
 > Vocational, Computer Software Engineering
 
+## Activities
+##### Volunteer
+> WRI & NBC Community
+##### Work
+> Followersindo as Backend Engineer
+##### Ngampus
+> State Polytechnic Of Malang
+
 ## Community
 ##### (NBC) Ngalam Backend Community
 ##### (WRI) Workshop Riset Informatika
 ##### (BIGREDS) Indonesian Liverpool Supporter
+
+## What I have done?
+>[Marketplace for UMKM](http://travelticketdesk.com/)
+>[POS for Distro](https://github.com/alfaben12/kprpllasttask)
+>[ZSequelize](https://alfaben12.github.io/ZSequelize/) On Development
+>[Backend Paykir](https://github.com/alfaben12/E-Parking)
+>[Z420 Sender](https://github.com/alfaben12/Z420Sender)
+>[ERP Programbroiler (Mitra)](https://programbroiler.com/)
+>[Backend Resellerindo Panel SMM](https://resellerindo.com/) On Development
+>[Backend Shop Followersindo](https://shop.followersindo.com/)
+>[Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/)
+> [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
+>[Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
