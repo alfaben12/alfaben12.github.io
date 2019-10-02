@@ -60,14 +60,14 @@ Sep 2018 – Present
 ##### (BIGREDS) Indonesian Liverpool Supporter
 
 ## What I have done?
->[Marketplace for UMKM](http://travelticketdesk.com/)
->[POS for Distro](https://github.com/alfaben12/kprpllasttask)
->[ZSequelize](https://alfaben12.github.io/ZSequelize/) On Development
->[Backend Paykir](https://github.com/alfaben12/E-Parking)
->[Z420 Sender](https://github.com/alfaben12/Z420Sender)
->[ERP Programbroiler (Mitra)](https://programbroiler.com/)
->[Backend Resellerindo Panel SMM](https://resellerindo.com/) On Development
->[Backend Shop Followersindo](https://shop.followersindo.com/)
->[Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/)
-> [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
->[Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
+- [Marketplace for UMKM](http://travelticketdesk.com/)
+- [POS for Distro](https://github.com/alfaben12/kprpllasttask)
+- [ZSequelize](https://alfaben12.github.io/ZSequelize/) On Development
+- [Backend Paykir](https://github.com/alfaben12/E-Parking)
+- [Z420 Sender](https://github.com/alfaben12/Z420Sender)
+- [ERP Programbroiler (Mitra)](https://programbroiler.com/)
+- [Backend Resellerindo Panel SMM](https://resellerindo.com/) On Development
+- [Backend Shop Followersindo](https://shop.followersindo.com/)
+- [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/)
+- [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
+- [Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
