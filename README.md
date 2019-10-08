@@ -49,8 +49,10 @@ Sep 2018 – Present
 ## Activities
 ##### Volunteer
 > WRI & NBC Community
+
 ##### Work
 > Followersindo as Backend Engineer
+
 ##### Ngampus
 > State Polytechnic Of Malang
 
