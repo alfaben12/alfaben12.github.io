@@ -73,6 +73,6 @@ Sep 2018 – Present
 - [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/)
 - [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
 - [Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
-- [Backend Kutjur Coffee Apps](https://www.kopi.kutjur.com/) On Development
-- [Android Kutjur Coffee Apps](https://www.kopi.kutjur.com/) Pending
+- [Backend Kutjur Coffee Apps](https://kopi.kutjur.com/) On Development
+- [Android Kutjur Coffee Apps](https://kopi.kutjur.com/) Pending
 
