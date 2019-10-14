@@ -1,5 +1,5 @@
 
-# Long time no see atau It's been a while.
+# Long time no see, it's been a while.
 
 I am a **backend** engineer. I am currently **looking** for opportunities for a backend engineer role.
 ## Career interests
