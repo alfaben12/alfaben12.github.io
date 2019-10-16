@@ -62,7 +62,7 @@ Sep 2018 – Present
 ##### (BIGREDS) Indonesian Liverpool Supporter
 
 ## What I have done?
-- [Marketplace for UMKM](http://travelticketdesk.com/)
+- [Marketplace for UMKM](http://desk.travelticketdesk.com/)
 - [POS for Distro](https://github.com/alfaben12/kprpllasttask)
 - [ZSequelize](https://alfaben12.github.io/ZSequelize/) On Development
 - [Backend Paykir](https://github.com/alfaben12/E-Parking)
