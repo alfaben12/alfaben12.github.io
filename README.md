@@ -77,4 +77,4 @@ Sep 2018 – Present
 - [Android Kutjur Coffee Apps](https://kopi.kutjur.com/) Pending
 
 ## Curriculum Vitae
-- [See My CV] (https://drive.google.com/file/d/1PdUuSA8KNkQbb0A8sNp-Qgp9fUhgrVMv/view?usp=sharing)
+- [See My CV](https://drive.google.com/file/d/1PdUuSA8KNkQbb0A8sNp-Qgp9fUhgrVMv/view?usp=sharing)
