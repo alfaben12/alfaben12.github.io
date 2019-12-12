@@ -32,12 +32,31 @@ Nov 2017 – Present
 
 ### FollowersIndo
 ##### Backend Engineer
-Sep 2018 – Present
+Sep 2018 – Sep 2019
 - Develop and maintain web-based applications.
 - Interact with business customers to understand their needs, present website demos, hear their questions, and resolve technical problems that arise during the project.
 - Research on social media (Instagram).
 - Develop back-end web applications.
 - Create API for integration and commucation backend to backend.
+
+##### Software Engineer
+Oct 2019 - Present
+- Design and implement backend services for various platforms.
+- Work with the Product, Business and Sales teams to gather and understand requirements and deliver scalable solutions.
+- Write high quality, maintainable code.
+- Own parts of the system and continuously work to improve them in an agile environment.
+- Benchmarking, load testing, diagnosing problems and helping create solutions.
+- Research and implement modern frameworks and technologies for back-end systems.
+- Participate in design discussions, reviews and propose/implement solutions to technical problems and challenge
+
+### PT. Indonesia Dinamika Eksklusif
+##### Software Engineer
+Oct 2019 - Present
+- Creating REST API for mobile & frontend
+- Creating API Gateway for service
+- Design and implement backend services for various platforms.
+- Write high quality, maintainable code.
+- Participate in design discussions, reviews and propose/implement solutions to technical problems and challenge
 
 ## Education
 ##### Vocational High School 4 Malang
@@ -77,4 +96,4 @@ Sep 2018 – Present
 - [Android Kutjur Coffee Apps](https://kopi.kutjur.com/) Pending
 
 ## Curriculum Vitae
-- [See My CV](https://drive.google.com/file/d/1PdUuSA8KNkQbb0A8sNp-Qgp9fUhgrVMv/view?usp=sharing)
+- [See My CV](https://drive.google.com/file/d/109Hv-aG6jD8ixdrc8aLcLjJ2XfKzj79g/view?usp=sharing)
