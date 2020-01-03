@@ -1,7 +1,7 @@
 
 # Long time no see, it's been a while.
 
-I am a **backend** engineer. I am currently **looking** for opportunities for a backend engineer role.
+Hi ! I am experienced **Backend Engineer** & Web Developer with a demonstrated history of working in the startup. Skilled in PHP & NodeJS, MySQL.
 ## Career interests
 Let recruiters know you’re open: **On**
 
@@ -81,19 +81,19 @@ Oct 2019 - Present
 ##### (BIGREDS) Indonesian Liverpool Supporter
 
 ## What I have done?
-- [Marketplace for UMKM](http://desk.travelticketdesk.com/)
-- [POS for Distro](https://github.com/alfaben12/kprpllasttask)
+- [Marketplace for UMKM](http://desk.travelticketdesk.com/) Done
+- [POS for Distro](https://github.com/alfaben12/kprpllasttask) Done
 - [ZSequelize](https://alfaben12.github.io/ZSequelize/) On Development
-- [Backend Paykir](https://github.com/alfaben12/E-Parking)
-- [Z420 Sender](https://github.com/alfaben12/Z420Sender)
-- [ERP Programbroiler (Mitra)](https://programbroiler.com/)
-- [Backend Resellerindo Panel SMM](https://resellerindo.com/) On Development
-- [Backend Shop Followersindo](https://shop.followersindo.com/)
-- [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/)
+- [Backend Paykir](https://github.com/alfaben12/E-Parking) Done
+- [Z420 Sender](https://github.com/alfaben12/Z420Sender) Done
+- [ERP Programbroiler (Mitra)](https://programbroiler.com/) 
+- [Backend Resellerindo Panel SMM](https://panel.resellerindo.com/reseller.php/login/) On Development
+- [Backend Shop Followersindo](https://shop.followersindo.com/) On Development
+- [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/) Done
 - [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
 - [Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
-- [Backend Kutjur Coffee Apps](https://kopi.kutjur.com/) On Development
-- [Android Kutjur Coffee Apps](https://kopi.kutjur.com/) Pending
+- [Backend BukaKopi Apps](https://store.kutjur.com/) On Development
+- [Android BukaKopi Apps](https://store.kutjur.com/) On Development
 
 ## Curriculum Vitae
-- [See My CV](https://drive.google.com/file/d/109Hv-aG6jD8ixdrc8aLcLjJ2XfKzj79g/view?usp=sharing)
+- [See My CV](https://drive.google.com/file/d/1Vha09VtFgIyxQqutYi45U4WEBDItR4gg/view?usp=sharing)
