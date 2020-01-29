@@ -40,7 +40,7 @@ Sep 2018 – Sep 2019
 - Create API for integration and commucation backend to backend.
 
 ##### Software Engineer
-Oct 2019 - Present
+Oct 2019 - Des 2019
 - Design and implement backend services for various platforms.
 - Work with the Product, Business and Sales teams to gather and understand requirements and deliver scalable solutions.
 - Write high quality, maintainable code.
@@ -51,7 +51,7 @@ Oct 2019 - Present
 
 ### PT. Indonesia Dinamika Eksklusif
 ##### Software Engineer
-Oct 2019 - Present
+Oct 2019 - Des 2019
 - Creating REST API for mobile & frontend
 - Creating API Gateway for service
 - Design and implement backend services for various platforms.
