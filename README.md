@@ -92,8 +92,9 @@ Oct 2019 - Des 2019
 - [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/) Done
 - [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
 - [Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
-- [Backend BukaKopi Apps](https://store.kutjur.com/) On Development
-- [Android BukaKopi Apps](https://store.kutjur.com/) On Development
+- [BukaKopi Web Apps](https://bukakopi.com/) On Development
+- [Backend BukaKopi Apps](https://api.bukakopi.com/Testing) On Development
+- [Android BukaKopi Apps](https://sapi.bukakopi.com/Testing) On Development
 
 ## Curriculum Vitae
 - [See My CV](https://drive.google.com/file/d/1Vha09VtFgIyxQqutYi45U4WEBDItR4gg/view?usp=sharing)
