@@ -60,10 +60,10 @@ Oct 2019 - Des 2019
 
 ## Education
 ##### Vocational High School 4 Malang
-> Informatics engineering, Information Technology
+> Vocational, Computer Software Engineering
 
 ##### State Polytechnic Of Malang
-> Vocational, Computer Software Engineering
+> Informatics engineering, Information Technology
 
 ## Activities
 ##### Volunteer
@@ -87,8 +87,8 @@ Oct 2019 - Des 2019
 - [Backend Paykir](https://github.com/alfaben12/E-Parking) Done
 - [Z420 Sender](https://github.com/alfaben12/Z420Sender) Done
 - [ERP Programbroiler (Mitra)](https://programbroiler.com/) 
-- [Backend Resellerindo Panel SMM](https://panel.resellerindo.com/reseller.php/login/) On Development
-- [Backend Shop Followersindo](https://shop.followersindo.com/) On Development
+- [Backend Resellerindo Panel SMM](https://panel.resellerindo.com/reseller.php/login/) On Development (Done)
+- [Backend Shop Followersindo](https://shop.followersindo.com/) On Development (Done)
 - [Backend Docs ERP Programbroiler (Mitra)](http://userguideonfarm.seribupulau.com/) Done
 - [Backend ZPay E-money Container](https://github.com/alfaben12/e-money-container) On Development
 - [Android ZPay E-money Container](https://github.com/alfaben12/Container-Emoney) On Development
